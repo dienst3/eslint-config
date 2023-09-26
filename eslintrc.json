@@ -30,12 +30,6 @@
     "import/no-useless-path-segments": "warn",
     "import/first": "warn",
     "import/newline-after-import": "warn",
-    "import/no-internal-modules": [
-      "warn",
-      {
-        "allow": ["*~/server/prisma", "*~/server/validation", "*~/common/*"]
-      }
-    ],
     "@typescript-eslint/no-unused-vars": "warn",
     "vue/multi-word-component-names": "off",
     "vue/no-multiple-template-root": "off",
