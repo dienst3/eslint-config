@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dienst3/eslint-config/compare/v1.0.0...v1.1.0) (2023-09-26)
+
+
+### Features
+
+* remove internal modules rule ([34a6146](https://github.com/dienst3/eslint-config/commit/34a6146aae8ca84456453a99557eaa29f9b02cdd))
+
 # 1.0.0 (2023-09-19)
 
 
