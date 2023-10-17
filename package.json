@@ -1,6 +1,6 @@
 {
   "name": "@dienst3/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint configuration for Dienst 3",
   "main": "eslintrc.json",
   "repository": "git@github.com:dienst3/eslint-config.git",
