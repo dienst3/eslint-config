@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/dienst3/eslint-config/compare/v1.1.0...v1.2.0) (2023-10-17)
+
+
+### Features
+
+* **release:** add more release rules ([f3b0d3b](https://github.com/dienst3/eslint-config/commit/f3b0d3b1f2645afe55bb5a2cc45050bb667ece5f))
+
 # [1.1.0](https://github.com/dienst3/eslint-config/compare/v1.0.0...v1.1.0) (2023-09-26)
 
 
